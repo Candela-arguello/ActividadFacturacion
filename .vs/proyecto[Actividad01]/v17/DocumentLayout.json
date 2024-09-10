@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadPractica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB16723-E15B-468A-8017-0C93C7D2754E}|ActividadPractica.csproj|e:\\windows\\desktop\\cande\\vs - proyectos\\actividadpractica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB16723-E15B-468A-8017-0C93C7D2754E}|ActividadPractica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB16723-E15B-468A-8017-0C93C7D2754E}|ActividadPractica.csproj|e:\\windows\\desktop\\cande\\vs - proyectos\\actividadpractica\\dominio\\art\u00EDculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB16723-E15B-468A-8017-0C93C7D2754E}|ActividadPractica.csproj|solutionrelative:dominio\\art\u00EDculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB16723-E15B-468A-8017-0C93C7D2754E}|ActividadPractica.csproj|e:\\windows\\desktop\\cande\\vs - proyectos\\actividadpractica\\dominio\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB16723-E15B-468A-8017-0C93C7D2754E}|ActividadPractica.csproj|solutionrelative:dominio\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB16723-E15B-468A-8017-0C93C7D2754E}|ActividadPractica.csproj|e:\\windows\\desktop\\cande\\vs - proyectos\\actividadpractica\\dominio\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB16723-E15B-468A-8017-0C93C7D2754E}|ActividadPractica.csproj|solutionrelative:dominio\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB16723-E15B-468A-8017-0C93C7D2754E}|ActividadPractica.csproj|e:\\windows\\desktop\\cande\\vs - proyectos\\actividadpractica\\dominio\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB16723-E15B-468A-8017-0C93C7D2754E}|ActividadPractica.csproj|solutionrelative:dominio\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadPractica\\Dominio\\Factura.cs",
+              "RelativeDocumentMoniker": "Dominio\\Factura.cs",
+              "ToolTip": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadPractica\\Dominio\\Factura.cs",
+              "RelativeToolTip": "Dominio\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:45:23.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadPractica\\Dominio\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Dominio\\DetalleFactura.cs",
+              "ToolTip": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadPractica\\Dominio\\DetalleFactura.cs",
+              "RelativeToolTip": "Dominio\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:44:04.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadPractica\\Dominio\\FormaPago.cs",
+              "RelativeDocumentMoniker": "Dominio\\FormaPago.cs",
+              "ToolTip": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadPractica\\Dominio\\FormaPago.cs",
+              "RelativeToolTip": "Dominio\\FormaPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:43:16.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Art\u00EDculo.cs",
+              "DocumentMoniker": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadPractica\\Dominio\\Art\u00EDculo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Art\u00EDculo.cs",
+              "ToolTip": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadPractica\\Dominio\\Art\u00EDculo.cs",
+              "RelativeToolTip": "Dominio\\Art\u00EDculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:41:19.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadPractica\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadPractica\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:35:59.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
