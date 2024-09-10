@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadPractica\\ActividadPractica.csproj": {}
+    "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadFacturacion\\ActividadPractica.csproj": {}
   },
   "projects": {
-    "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadPractica\\ActividadPractica.csproj": {
+    "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadFacturacion\\ActividadPractica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadPractica\\ActividadPractica.csproj",
+        "projectUniqueName": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadFacturacion\\ActividadPractica.csproj",
         "projectName": "ActividadPractica",
-        "projectPath": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadPractica\\ActividadPractica.csproj",
+        "projectPath": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadFacturacion\\ActividadPractica.csproj",
         "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-        "outputPath": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadPractica\\obj\\",
+        "outputPath": "E:\\Windows\\Desktop\\Cande\\VS - Proyectos\\ActividadFacturacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
